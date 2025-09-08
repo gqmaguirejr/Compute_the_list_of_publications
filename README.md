@@ -58,7 +58,7 @@ The user can now move items from the first part (before the '%%%%%%%%%') to the 
 
 Note that the first part is going to be the list of publications in a compilation thesis.
 
-# sample files
+## sample files
 references.bib a sample bib file
 fordiva.json a sample fordiva.json file
 
