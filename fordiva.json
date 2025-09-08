@@ -1,0 +1,87 @@
+{
+  "Author1":{
+    "Local User Id":"u1XXXXXX",
+    "E-mail":"maguire@kth.se",
+    "ORCiD":"xxxxx-xxxx-xxxx-xxxx",
+    "organisation":{
+      "L1":"School of Electrical Engineering and Computer Science"
+    },
+    "Last name":"Student",
+    "First name":"Fake A."
+  },
+  "Course Info":{
+    "Cycle":"3"
+  },
+  "Degree1":{
+    "Educational program":{
+      "subjectArea":"*****Unknown subject area*****",
+      "Degree":"XXX",
+      "programcode":"*****Unknown subject area*****"
+    }
+  },
+  "Title":{
+    "Subtitle":"A subtitle in the language of the thesis",
+    "Main title":"Chip testing **** 4 **** This is the title in the language of the thesis",
+    "Language":"eng"
+  },
+  "Alternative title":{
+    "Subtitle":"Detta är den svenska översättningen av undertiteln",
+    "Main title":"Detta är den svenska översättningen av titeln",
+    "Language":"swe"
+  },
+  "Supervisor1":{
+    "Last name":"Supervisor",
+    "E-mail":"XXXXXXXXXXXX@kth.se",
+    "organisation":{
+      "L2":"XXX",
+      "L1":"*****School of XXX*****"
+    },
+    "Local User Id":"u1XXXXXX",
+    "First name":"A. Busy"
+  },
+  "Supervisor2":{
+    "Last name":"Supervisor",
+    "E-mail":"XXXXXXXXXXXX@kth.se",
+    "organisation":{
+      "L2":"XXX",
+      "L1":"*****School of XXX*****"
+    },
+    "Local User Id":"u1XXXXXX",
+    "First name":"Another Busy"
+  },
+  "Supervisor3":{
+    "Other organisation":"Timbuktu University, Department of Pseudoscience",
+    "Last name":"Supervisor",
+    "E-mail":"XXXXXXXXXXXX@tu.va",
+    "First name":"Third Busy"
+  },
+  "Opponents":{
+    "Name":"A. B. Normal \\& A. X. E. Normalè"
+  },
+  "National Subject Categories":"ddddd, ddddd",
+  "SDGs":"XXX, XXX",
+  "Other information":{
+    "Number of pages":"xxvi, 73",
+    "Year":"2025"
+  },
+  "Series":{
+    "No. in series":"2025:0001",
+    "Title of series":"TRITA -- EECS-AVL"
+  },
+  "Copyrightleft":"copyright",
+  "Presentation":{
+    "City":"Stockholm",
+    "Room":"SAL-C and via Zoom https://kth-se.zoom.us/j/ddddddddddd",
+    "Date":"2025-04-15 14:00",
+    "Address":"Isafjordsgatan 22 (Kistagången 16)",
+    "Language":"eng"
+  },
+  "abstracts":{
+    "swe":"Skriv in din svenska sammanfattning eller abstrakt här!\n",
+    "eng":"\\engExpl {Enter your abstract here and remove this line!} An abstract is (typically) about 250 and 350 words (1/2 A4-page) with the following components: \\par \\begin {itemize} \\item What is the topic area? (optional) Introduces the subject area for the project. \\item Short problem statement \\item Why was this problem worth a third-cycle thesis? (\\ie why is the problem both significant and of a suitable degree of difficulty for your intended degree? Why has no one else solved it yet?) \\item How did you solve the problem? What was your method/insight? \\item Results/Conclusions/Consequences/Impact: What are your key results/\\linebreak [4]conclusions? What will others do based on your results? What can be done now that you have finished - that could not be done before your thesis project was completed? \\end {itemize} \\par \n"
+  },
+  "keywords":{
+    "swe":" NyckelordA, NyckelordB, NyckelordC\n",
+    "eng":" KeywordA, KeywordB, KeywordC\n"
+  }
+}
