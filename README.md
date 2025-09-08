@@ -54,7 +54,7 @@ An example of output is:
 \end{ListOfDatasets}
 ```
 
-The user can now move items from the first part (before the '%%%%%%%%%') to the appropriate entires in the lower part (i.e., after the '%%%%%%%%%'. The user can add the text that they want to make a file that they can import into their thesis as the list of publicatyions.
+The user can now move items from the first part (before the '%%%%%%%%%') to the appropriate lists in the lower part (i.e., after the '%%%%%%%%%'. The user can add the text that they want to make a file that they can import into their thesis as the list of publicatyions. It is important to note that the generated labels are for the user's convenience in referring to the specific publication - they do not imply any ordering. 
 
 Note that the first part is going to be the list of publications in a compilation thesis.
 
