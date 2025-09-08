@@ -1,7 +1,7 @@
 # Compute_the_list_of_publications
 Compute the list of publications for a third-cycle thesis based on students publications in DiVA
 
-# Aim
+## Aim
 The aim is to facilite the creation of a list of publications for a third-cycle thesis. The idea is to get information about the user from the fordiva.json file, fetch the user's publications from DiVA, get information about the publications from the references.bib file in the thesis., and then compute a potential list of publications by looking for which of the entries in the references.bib file are in the user's publications. Matching is done first with strong identifieers (such as DOIs) and the fuzz matching of the titles, ... .
 
 An example of output is:
